@@ -49,7 +49,9 @@
     "no-console": [
       true,
       "debug",
+      "error",
       "info",
+      "log",
       "time",
       "timeEnd",
       "trace"
@@ -120,13 +122,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "jb-site",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "app",
+      "jb-site",
       "kebab-case"
     ],
     "no-output-on-prefix": true,

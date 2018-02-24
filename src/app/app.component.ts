@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'jb-site-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
