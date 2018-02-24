@@ -2,9 +2,9 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 
-import { MaterialModule } from './material/material.module';
+import { MaterialModule } from './modules/material/material.module';
 import { AppComponent } from './app.component';
-import { EntryComponent } from './entry/entry.component';
+import { EntryComponent } from './components/entry/entry.component';
 
 
 @NgModule({
