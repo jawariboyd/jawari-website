@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+.mat-sidenav-container {
+    height: 100vh
+}
+
+.mat-sidenav {
+    height: 100vh;
+    width: 200px;
+}
